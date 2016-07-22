@@ -1,0 +1,7 @@
+<resources>
+    <string name="ico_zuanshi"> &#xe602;</string>
+    <string name="ico_vip"> &#xe601;</string>
+    <string name="ico_notlogin"> &#xe603;</string>
+    <string name="ico_setting"> &#xe600;</string>
+
+</resources>

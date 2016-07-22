@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00ba9b</color>
+    <color name="colorPrimaryDark">#f6f6f6</color>
+    <color name="colorAccent">#73c6e7</color>
+    <color name="tabChecked">#0199f9</color>
+    <color name="tabUnChecked">#82b6ec</color>
+
+    <color name="service_movie_main">#b476da</color>
+    <color name="service_dining_main">#ee5e82</color>
+    <color name="service_berth_main">#46b8e7</color>
+    <color name="service_store_main">#ea5554</color>
+    <color name="service_game_main">#e85fb9</color>
+    <color name="service_live_main">#fa8501</color>
+    <color name="service_radio_main">#33c774</color>
+    <color name="service_more_main">#6f8ae4</color>
+    <color name="default_white">#FFF</color>
+    <color name="switch_off">#aa00aa</color>
+    <color name="switch_on">#00aa00</color>
+
+
+    <color name="normal_blue">#4DA2D9</color>
+    <color name="pressed_blue">#FF0971E5</color>
+    <color name="disabled_btn">#E6E6E6</color>
+    <color name="backgroundcolor">#fff</color>
+
+    <color name="lightDark">#999</color>
+    <color name="lightGray">#f4f4f8</color>
+    <color name="default_back">#eaeaea</color>
+    <color name="statusBarTextColor">#ddd</color>
+    <color name="statusBarDeviceConnected">#28d676</color>
+    <color name="statusBarDeviceUnConnected">#d24a4c</color>
+    <color name="statusBarAlert">#dab55f</color>
+    <color name="tranColorPrimary">#0f4399f4</color>
+    <color name="transparent_white">#c8ffffff</color>
+
+    <color name="ball1">#FFD91C</color>
+    <color name="ball2">#FF4B4A</color>
+    <color name="ball3">#3D8EFF</color>
+    <color name="stationItem">#666</color>
+    <color name="ticket_ico">#5462e1</color>
+    <color name="chat_back">#E2E2E2</color>
+    <color name="input_chat_back">#f9f9f9</color>
+    <color name="send_chat_back">#e43D8EFF</color>
+    <color name="chat_content_back">#d74b95fc</color>
+    <color name="user_iterm_back">#ececec</color>
+    <color name="stroke_shope">#d6d1d1</color>
+    <color name="header_back">#efeded</color>
+    <integer-array name="colors">
+        <item>@color/ball1</item>
+        <item>@color/ball2</item>
+        <item>@color/ball3</item>
+    </integer-array>
+</resources>
